@@ -9,7 +9,7 @@ class TestSampleMethods(unittest.TestCase):
     """
     Test harness
     """
-    
+
     def test_incremement_by_two(self):
         """
         Test incremements
