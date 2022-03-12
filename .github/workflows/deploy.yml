@@ -25,6 +25,6 @@ jobs:
         username: ${{ secrets.DEPLOY_USERNAME }}
         password: ${{ secrets.DEPLOY_PASSWORD }}
         port: ${{ secrets.DEPLOY_PORT }}
-        source: "sample.py,.github/workflows/pylint.yml"
+        source: "sample.py"
         target: "test/sample_deploy"
    
