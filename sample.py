@@ -1,3 +1,8 @@
+"""
+Helper functions live here
+"""
+
+
 def increment_by_two(var_to_increment):
     """
     This function increments input by two
@@ -5,4 +10,3 @@ def increment_by_two(var_to_increment):
     :return: incrememented variable
     """
     return var_to_increment + 2
-    
