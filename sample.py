@@ -10,3 +10,11 @@ def increment_by_two(var_to_increment):
     :return: incrememented variable
     """
     return var_to_increment + 2
+
+def increment_by_three(var_to_increment):
+    """
+    This function increments input by three
+    :param var_to_increment: param to increment
+    :return: incrememented variable
+    """
+    return var_to_increment + 3
